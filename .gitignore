@@ -1,0 +1,13 @@
+RemoteSystemsTempFiles
+Servers
+.recommenders
+.metadata
+.classpath
+.project
+.bin
+.settings
+*.class
+target/**
+log.txt
+database.properties
+query
